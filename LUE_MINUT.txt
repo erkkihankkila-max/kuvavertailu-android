@@ -1,0 +1,8 @@
+Kuvavertailu Android 0.1 - lähdekoodiprojekti
+
+Avaa kansio Android Studiossa ja rakenna APK (Build > Build APK(s)).
+Pohjana Windows 0.5.2 KORJATTU: kolme 9x8 dHashia, rajaukset 100/80/65 %, Hamming-etäisyys ja herkkyys 0-20.
+Tämä on ensimmäinen Android-porttaus, ei testattu APK. Androidin kuvadekoodaus ja skaalaus voivat antaa hieman eri hash-tuloksia kuin Windows System.Drawing.
+
+HUOMIO: Suurten aineistojen vertailu on tässä versiossa O(n^2); 89 000 kuvaa tarkoittaa lähes 4 miljardia kuvaparia ja voi kestää erittäin pitkään.
+Poistopyyntö on Androidin järjestelmävahvistuksella, eikä sitä ole testattu kaikilla laitteilla.

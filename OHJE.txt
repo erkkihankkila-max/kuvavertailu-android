@@ -1,0 +1,1 @@
+Kuvavertailu Android GitHub-käännöspaketti. Lataa ZIP:n SISÄLTÖ GitHub-repositorion juureen (app, .github, build.gradle, settings.gradle). Actions rakentaa debug APK:n. Tämä on testaamaton Android 0.1, ei Windows 0.5.2:n suorituskykyinen vastine. Poisto estetty turvallisuussyistä.
